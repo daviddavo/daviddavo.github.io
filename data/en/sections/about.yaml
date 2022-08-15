@@ -1,0 +1,56 @@
+# section information
+section:
+  name: About me
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about-img.html
+
+# your designation
+designation: Research Assistant
+# your company information
+company:
+  name: GRASIA
+  url: https://grasia.fdi.ucm.es/newmain/language/en/
+
+# your resume. this file path should be relative to you "static" directory
+# TODO: Put resume
+# TODO: Auto update resume from overleaf
+# resume: "files/resume.pdf"
+
+# more buttons like the "resume" one
+# resourceLinks:
+# - title: Hello World!
+#   url: "https://example.com"
+
+# a summary about you
+summary: >
+  I am a Computer Science student that just finished its degree at [Complutense University of Madrid](https://www.ucm.es/english).
+  Currently I am taking a Master's Dregree in Artificial Intelligence at the Politechnic University of Madrid
+
+
+  While I studied things more related to theoretical computer science, I also like hardware and computer architecture. I am
+  a software libre, hacking and computer history enthusiast.
+  
+
+  In my free time, I have a small homelab and study Japanese.
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: E-mail
+  icon: "fas fa-envelope"
+  url: "mailto:david@ddavo.me"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/daviddavo"
+- name: GitLab
+  icon: "fab fa-gitlab"
+  url: "https://gitlab.com/daviddavo"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ddavo/"
+- name: Stack Overflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/4505998"

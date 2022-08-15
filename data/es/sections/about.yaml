@@ -1,0 +1,56 @@
+# section information
+section:
+  name: Sobre mí
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about-img.html
+
+# your designation
+designation: Asistente de Investigación
+# your company information
+company:
+  name: GRASIA
+  url: https://grasia.fdi.ucm.es/newmain/language/en/
+
+# your resume. this file path should be relative to you "static" directory
+# TODO: Put resume
+# TODO: Auto update resume from overleaf
+# resume: "files/resume.pdf"
+
+# more buttons like the "resume" one
+# resourceLinks:
+# - title: Hello World!
+#   url: "https://example.com"
+
+# a summary about you
+summary: >
+  Estudiante de Ingeniería Informática que acaba de terminar el grado en la [Universidad Complutense de Madrid](https://www.ucm.es).
+  Actualmente estoy haciendo un Master en Inteligencia Artificial en la Universidad Politécnica de Madrid.
+
+
+  Aunque he estudiado una rama más cercana a las ciencias de la computación, también me gusta el hardware y la arquitectura de computadores.
+  Además soy un entusiasta del software libre, el hacking y la historia de la informática.
+  
+
+  En mi tiempo libre, administro mis servicios auto alojados y estudio japonés.
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: E-mail
+  icon: "fas fa-envelope"
+  url: "mailto:david@ddavo.me"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/daviddavo"
+- name: GitLab
+  icon: "fab fa-gitlab"
+  url: "https://gitlab.com/daviddavo"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/ddavo/"
+- name: Stack Overflow
+  icon: "fab fa-stack-overflow"
+  url: "https://stackoverflow.com/users/4505998"

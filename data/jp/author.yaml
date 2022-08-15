@@ -1,8 +1,10 @@
 name: David Davó Laviña
+subtitle: ダビッド·ダボ·ラビニャ
 contactInfo:
   email: "david@ddavo.me"
   github: daviddavo
   linkedin: ddavo
+# TODO: Make it slower in Japanese
 summary:
   - こんにちは世界
   - 学生
