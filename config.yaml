@@ -1,0 +1,47 @@
+baseURL: http://ddavo.me/
+languageCode: en-uk
+title: David Davó
+theme: toha
+
+# Manage languages
+# https://gohugo.io/content-management/multilingual/
+languages:
+  en:
+    languageName: English
+    weight: 1
+  es:
+    languageName: Español
+    weight: 1
+  jp:
+    languageName: 日本語
+    weight: 2
+# At least HTML and JSON are required for the main HTML content and
+# client-side JavaScript search
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+
+# Site parameters
+params:
+  # GitHub repo URL and branch of your site
+  gitRepo: https://github.com/daviddavo/daviddavo.github.io
+  gitBranch: main
+
+  newsletter:
+    enable: false
+
+  features:
+    portfolio:
+      enable: true
+    # support:
+    #   enabled: true
+    #   kofi:
+    #     user: ddavo
+    #     text: Invite me to a coffee
+    #     textColor: '#f9fafc'
+    #     backgroundColor: '#248aaa'
+
+  footer:
+    enable: true
