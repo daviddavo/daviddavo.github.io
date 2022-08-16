@@ -10,7 +10,10 @@
   text-shadow: -1px -1px 3px #222,-1px 1px 3px #222,1px 1px 3px #222,1px -1px 3px #222;
 }
 
-.greeting {
+#davo {
+  /* Mostly display-1 from Bootstrap */
   font-family: Oswald,Roboto,Helvetica;
   font-weight: 300;
+  font-size: calc(1.625rem + 4.5vw);
+  line-height: 1.2;
 }
