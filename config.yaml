@@ -39,6 +39,11 @@ params:
   features:
     portfolio:
       enable: true
+    analytics:
+      enabled: true
+      matomo:
+        instance: matomo.ddavo.me
+        siteId: 1
     # support:
     #   enabled: true
     #   kofi:
