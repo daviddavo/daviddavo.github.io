@@ -29,6 +29,8 @@ params:
   gitRepo: https://github.com/daviddavo/daviddavo.github.io
   gitBranch: main
 
+  background: /images/landing/Calle_de_Alcala_Madrid_04.jpg
+
   newsletter:
     enable: false
 

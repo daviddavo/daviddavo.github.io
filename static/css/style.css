@@ -1,3 +1,16 @@
 .building-section-wrapper {
   margin-top: -20px;
 }
+
+.background {
+  background-blend-mode: darken;
+}
+  
+.home {
+  text-shadow: -1px -1px 3px #222,-1px 1px 3px #222,1px 1px 3px #222,1px -1px 3px #222;
+}
+
+.greeting {
+  font-family: Oswald,Roboto,Helvetica;
+  font-weight: 300;
+}
