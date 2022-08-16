@@ -30,6 +30,8 @@ params:
   gitBranch: main
 
   background: /images/landing/Calle_de_Alcala_Madrid_04.jpg
+  logo:
+    favicon: /images/logos/favicon-512x512.png
 
   newsletter:
     enable: false
