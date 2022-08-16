@@ -14,6 +14,9 @@
   /* Mostly display-1 from Bootstrap */
   font-family: Oswald,Roboto,Helvetica;
   font-weight: 300;
-  font-size: calc(1.625rem + 4.5vw);
+  /* From Bootstrap 5 */
+  /* font-size: calc(1.625rem + 4.5vw); */
+  /* From Bootstrap 4 */
+  font-size: 6rem;
   line-height: 1.2;
 }
