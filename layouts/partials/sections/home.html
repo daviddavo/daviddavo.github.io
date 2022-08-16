@@ -114,7 +114,11 @@
       class="rounded-circle mx-auto d-block img-fluid"
       alt="Author Image"
     />*/}}
-    <h1 class="greeting"> {{ $author.greeting }} {{ $name }}</h1>
+    <h1 class="greeting" id="davo">
+      <span class="d-none d-sm-inline-block font-weight-light">David</span>
+      <span class="font-weight-bold">Davó</span>
+      <span class="d-none d-lg-inline-block font-weight-light">Laviña</span>
+    </h1>
     {{ if $author.subtitle }}
       <h2 class="greeting-subtitle">{{ $author.subtitle }}</h2>
     {{ end }}

@@ -1,3 +1,22 @@
 .building-section-wrapper {
   margin-top: -20px;
 }
+
+.background {
+  background-blend-mode: darken;
+}
+  
+.home {
+  text-shadow: -1px -1px 3px #222,-1px 1px 3px #222,1px 1px 3px #222,1px -1px 3px #222;
+}
+
+#davo {
+  /* Mostly display-1 from Bootstrap */
+  font-family: Oswald,Roboto,Helvetica;
+  font-weight: 300;
+  /* From Bootstrap 5 */
+  /* font-size: calc(1.625rem + 4.5vw); */
+  /* From Bootstrap 4 */
+  font-size: 6rem;
+  line-height: 1.2;
+}

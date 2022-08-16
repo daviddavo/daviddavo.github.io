@@ -29,12 +29,21 @@ params:
   gitRepo: https://github.com/daviddavo/daviddavo.github.io
   gitBranch: main
 
+  background: /images/landing/Calle_de_Alcala_Madrid_04.jpg
+  logo:
+    favicon: /images/logos/favicon-512x512.png
+
   newsletter:
     enable: false
 
   features:
     portfolio:
       enable: true
+    analytics:
+      enabled: true
+      matomo:
+        instance: matomo.ddavo.me
+        siteId: 1
     # support:
     #   enabled: true
     #   kofi:
