@@ -1,3 +1,35 @@
+/* ============ BEGIN OVERRIDES ============ */
+
+:root {
+  /* --color-heading: hsl(212, 40%, 18%); */
+  --color-heading: hsl(276, 40%, 18%);
+  /* --color-link: hsl(194, 65%, 40%); */
+  --color-link: hsl(293, 65%, 40%);
+  /* --color-link-hover: hsl(194, 62%, 33%); */
+  --color-link-hover: hsl(293, 62%, 25%);
+  /* --color-paragraph: hsl(214, 19%, 29%); */
+  --color-paragraph: hsl(278, 19%, 29%);
+  /* --color-hover-lighten: hsl(199, 73%, 47%); */
+  --color-hover-lighten: hsl(293, 73%, 47%);
+  /* --color-dirty-snow: hsl(222, 33%, 92%); */
+  --color-dirty-snow: hsl(295, 32%, 92%);
+}
+
+.top-navbar .dropdown-menu a:hover {
+  /* background: linear-gradient(
+    90deg,
+    hsl(243, 100%, 7%) 0%,
+    hsla(194, 66%, 40%, 0.2) 0%
+  ); */
+  background: linear-gradient(
+    90deg,
+    hsl(292, 100%, 7%) 0%,
+    hsla(262, 66%, 40%, 0.2) 0%
+  );
+}
+
+/* ============ END OVERRIDES ============ */
+
 .building-section-wrapper {
   margin-top: -20px;
 }
