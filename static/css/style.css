@@ -36,6 +36,7 @@
 
 .background {
   background-blend-mode: darken;
+  filter: brightness(0.5) blur(3px);
 }
   
 .home {
