@@ -15,9 +15,7 @@ company:
   url: https://grasia.fdi.ucm.es/newmain/language/en/
 
 # your resume. this file path should be relative to you "static" directory
-# TODO: Put resume
-# TODO: Auto update resume from overleaf
-# resume: "files/resume.pdf"
+resume: "https://daviddavo.github.io/22CV/David_Davo_CV_Spanish.pdf"
 
 # more buttons like the "resume" one
 # resourceLinks:
