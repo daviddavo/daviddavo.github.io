@@ -50,6 +50,9 @@ socialLinks:
 - name: LinkedIn
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/ddavo/"
+- name: orcid
+  icon: "fab fa-orcid"
+  url: "https://orcid.org/0000-0003-1744-8314"
 - name: Stack Overflow
   icon: "fab fa-stack-overflow"
   url: "https://stackoverflow.com/users/4505998"
