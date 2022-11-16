@@ -1,7 +1,7 @@
 baseURL: http://ddavo.me/
 languageCode: en-uk
 title: David Davó
-theme: toha
+theme: [hugo-redirect, toha]
 
 # Manage languages
 # https://gohugo.io/content-management/multilingual/
