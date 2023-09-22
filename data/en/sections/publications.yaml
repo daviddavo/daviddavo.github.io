@@ -1,25 +1,25 @@
 # section information
 section:
-  name: Publicaciones
+  name: Publications
   id: publications
   enable: true
   weight: 3
   showOnNavbar: true
   template: sections/publications.html
 buttons:
-- name: Todas
+- name: All
   filter: "all"
-- name: "Congresos"
+- name: "Conferences"
   filter: "conference"
-- name: "Artículos"
+- name: "Articles"
   filter: "article"
-- name: "Trabajos Finales"
+- name: "Thesis"
   filter: "tf"
 publications:
 - title: "DAO-Analyzer: Exploring Activity and Participation in Blockchain Organizations"
   publishedIn:
     name: "CSCW'22 Companion: Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing"
-    date: Noviembre 2022
+    date: November 2022
     url: https://dl.acm.org/doi/proceedings/10.1145/3500868
   authors:
   - name: Javier Arroyo
@@ -45,8 +45,8 @@ publications:
   categories: ["conference", "demo"]
 - title: Implementación de una red en chip en un procesador RISC-V
   publishedIn:
-    name: Trabajo de Fin de Grado, Departamento de Arquitectura de Computadores y Automática, Universidad Complutense de Madrid, curso 2021/2022
-    date: Junio 2022
+    name: Final Degree Project, Department of Computer Architecture and Automation, Complutense University of Madrid
+    date: June 2022
     url: https://informatica.ucm.es/tfgs-2022-2023
   authors:
   - name: David Davó
@@ -58,8 +58,8 @@ publications:
     url: https://scholar.google.com/citations?user=XSiaj2MAAAAJ
   paper:
     summary: >
-      Las redes en chip (NoC) son una tecnología emergente alternativa a los métodos de interconexión convencionales en la que se aplican los métodos de diseño de redes a las conexiones entre módulos.
-      Aplicamos esta metodología dentro de la unidad de ejecución de un procesador basado en la arquitectura libre RISC-V: el SWerv-EL2.
-      Para ello, hemos estudiado a fondo y diseñado una NoC, tratando de minimizar los recursos consumidos y el impacto en área de la misma en el procesador. Posteriormente modificamos la unidad de ejecución del procesador para incluir dicha red como inter conexión entre los módulos de dicha unidad. En ambos casos usaremos el lenguaje de descripción de hardware SystemVerilog.
+      Network on a Chip (NoC) is an emergent technology alternative to traditional inter connection methods, in which network design methods are applied to the connexions between modules. 
+      In this Final Degree Project, we apply this technology inside the execution unit of the RISC-V based processor SWerv-EL2. 
+      For this, we have studied in-depth and designed a NoC, trying to minimize the resources utilized and its impact on the core. Afterwards, we modified the execution unit of the core to include said network, using it to interconnect its submodules. In both cases, we used the hardware description language SystemVerilog. 
     url: https://hdl.handle.net/20.500.14352/3279
   categories: ["tf"]

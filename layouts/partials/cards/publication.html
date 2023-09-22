@@ -21,7 +21,7 @@
 
         {{ if .directors }}
             <span>
-            {{ i18n "director" (len .directors) }}:
+            {{ i18n "supervisor" (len .directors) }}:
 
             {{ range $index,$director := first (sub (len .directors) 1) .directors }}
                 <a href="{{.url}}">{{ .name }}</a> & 
