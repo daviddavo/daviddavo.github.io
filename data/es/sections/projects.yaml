@@ -60,7 +60,7 @@ projects:
     timeline: "2020"
     role: Estudiante
     repo: https://github.com/daviddavo/bellman-ford-haskell
-    tags: [academic, haskell]
+    tags: [academic, haskell, algorithms]
     summary: >
       Implementación en Haskell del algoritmo bellman-ford, comprobando su eficiencia y complejidad
   - name: Prácticas Inteligencia Artificial
@@ -79,9 +79,28 @@ projects:
     summary: >
       Herramienta de visualización de datos sobre Organizaciones Descentralizadas Autónomas (DAOs)
       desplegadas en la red Ethereum
-# Cuentos y Poemas por Teléfono
+  - name: Cuentos y Poemas por Teléfono
+    timeline: 2015 - Today
+    role: Desarrollador
+    repo: https://github.com/daviddavo/cypxt20
+    url: https://montandoellocal.com/2021/05/02/como-funciona-cuentos-y-poemas-por-telefono/
+    tags: [hobby, web, php, symfony]
+    summary: >
+      Página web para la gestión de llamadas en los eventos cuentos y poemas por teléfono de Montando el Local
+  - name: Homelab
+    timeline: 2011 - Today
+    role: Sysadmin
+    tags: [hobby, docker, linux]
+    summary: >
+      Pequeña red casera con varios dispositivos que aloja varios servicios de
+      uso diario para mis allegados usando docker y multitud de scripts
+  - name: "TFG: NoC en procesador RISC-V"
+    repo: https://github.com/daviddavo/Cores-SweRV-EL2-NoC
+    url: https://hdl.handle.net/20.500.14352/3279
+    role: Diseñador software
+    tags: [academic, hardware, verilog, risc-v]
+    summary: >
+      Implementación de una Red en Chip para un procesador RISC-V escrito en Verilog
+    
 # Esta web
 # El blog
-# El homelab
-# dao-analyzer
-# EL TFG, GILIPOLLAS
