@@ -1,0 +1,65 @@
+# section information
+section:
+  name: Publicaciones
+  id: publications
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  template: sections/publications.html
+buttons:
+- name: Todas
+  filter: "all"
+- name: "Congresos"
+  filter: "conference"
+- name: "Artículos"
+  filter: "article"
+- name: "Trabajos Finales"
+  filter: "tf"
+publications:
+- title: "DAO-Analyzer: Exploring Activity and Participation in Blockchain Organizations"
+  publishedIn:
+    name: "CSCW'22 Companion: Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing"
+    date: Noviembre 2022
+    url: https://dl.acm.org/doi/proceedings/10.1145/3500868
+  authors:
+  - name: Javier Arroyo
+    url: https://scholar.google.com/citations?user=XnLmmE8AAAAJ
+  - name: David Davó
+    url: https://scholar.google.com/citations?user=LNSSvv4AAAAJ
+  - name: Elena Martínez-Vicente
+    url: https://www.linkedin.com/in/elenamartinezvicente
+  - name: Youssef Faqir-Rhazoui
+    url: https://scholar.google.com/citations?user=MAwWNrAAAAAJ
+  - name: Samer Hassan
+    url: https://scholar.google.com/citations?user=t-R8WmsAAAAJ
+  paper:
+    summary: >
+      Decentralized Autonomous Organizations (DAOs) are a new kind of organization that relies on blockchain software to
+      govern their projects. Typically, DAO members may put forward and vote on proposals. For instance these proposals
+      may consist on someone doing some tasks in exchange for a share of the DAO crypto-funds. In recent times, DAOs have
+      gained a remarkable adoption, and yet they are still understudied by the academic literature. In this work, we
+      present a visual analytics tool to study DAO activity focusing on their participation and temporal evolution. Our
+      tool will hopefully help to stimulate research on this new kind of online community and collaborative software.
+    url: https://doi.org/10.1145/3500868.3559707
+    # url: https://hdl.handle.net/20.500.14352/73018
+  categories: ["conference", "demo"]
+- title: Implementación de una red en chip en un procesador RISC-V
+  publishedIn:
+    name: Trabajo de Fin de Grado, Departamento de Arquitectura de Computadores y Automática, curso 2021/2022
+    date: Junio 2022
+    url: https://informatica.ucm.es/tfgs-2022-2023
+  authors:
+  - name: David Davó
+    url: https://scholar.google.com/citations?user=LNSSvv4AAAAJ
+  directors:
+  - name: Óscar Garnica
+    url: https://scholar.google.com/citations?user=_0Uu_akAAAAJ
+  - name: Juan Lanchares
+    url: https://scholar.google.com/citations?user=XSiaj2MAAAAJ
+  paper:
+    summary: >
+      Las redes en chip (NoC) son una tecnología emergente alternativa a los métodos de interconexión convencionales en la que se aplican los métodos de diseño de redes a las conexiones entre módulos.
+      Aplicamos esta metodología dentro de la unidad de ejecución de un procesador basado en la arquitectura libre RISC-V: el SWerv-EL2.
+      Para ello, hemos estudiado a fondo y diseñado una NoC, tratando de minimizar los recursos consumidos y el impacto en área de la misma en el procesador. Posteriormente modificamos la unidad de ejecución del procesador para incluir dicha red como inter conexión entre los módulos de dicha unidad. En ambos casos usaremos el lenguaje de descripción de hardware SystemVerilog.
+    url: https://hdl.handle.net/20.500.14352/3279
+  categories: ["tf"]
