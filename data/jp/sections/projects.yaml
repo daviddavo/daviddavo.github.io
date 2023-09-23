@@ -1,0 +1,105 @@
+# section information
+section:
+  name: プロジェクト
+  id: projects
+  enable: true
+  weight: 2
+  showOnNavbar: true
+buttons:
+  - name: 全部
+    filter: all
+  - name: 学術的
+    filter: academic
+  - name: 職業的
+    filter: professional
+  - name:  趣味的
+    filter: hobby
+# TODO: Display the URL too on projects that have it
+projects:
+  - name: InvProy α
+    timeline: "2015 - 2017"
+    role: High School Student
+    repo: https://github.com/daviddavo/InvProy
+    url: https://invproy.ddavo.me
+    tags: [academic, python, latex]
+    summary: >
+      Final project part of the "Baccalaureate of Excellence" program, winner of
+      the 2nd pre-university meeting of future researchers (2017).
+  - name: SIMKL's TV Tracker
+    timeline: 2016 - 2019
+    role: 3rd Party Developer
+    repo: https://github.com/SIMKL/script.simkl
+    url: https://simkl.com/apps/
+    tags: [professional, python, C#]
+    summary: >
+      Creation of plugins for Emby and Kodi that scrobble the chapter or movie you're watching to Simkl
+  - name: Just Get My Data
+    timeline: 2022 - Today
+    role: Grad Student
+    repo: https://github.com/daviddavo/jgmd
+    url: https://justgetmydata.com
+    tags: [academic, hobby, jekyll]
+    summary: >
+      Repository of links and documentation on how to obtain your personal data from multiple web services
+  - name: IHaskell-Widgets
+    timeline: Verano 2021
+    role: Contributor
+    repo: https://github.com/IHaskell/IHaskell
+    url: https://gsoc21.ddavo.me
+    tags: [academic, professional, haskell, jupyter]
+    summary: >
+      Fixing the IHaskell-widgets library as a participant in the Google Summer of Code 2021 with Haskell.org as mentor
+  - name: wdsparqlmagic
+    timeline: "2022"
+    role: Developer
+    repo: https://github.com/daviddavo/wdsparql
+    tags: [professional, python, jupyter]
+    summary: >
+      Jupyter plugin to execute SparQL queries inside the notebook
+  - name: Bellman Ford in Haskell
+    timeline: "2020"
+    role: Grad Student
+    repo: https://github.com/daviddavo/bellman-ford-haskell
+    tags: [academic, haskell, algorithms]
+    summary: >
+      Haskell implementation of the Bellman-Ford algorithm, analysing its complexity and efficiency
+  - name: Artificial Intelligence Notebooks
+    timeline: "2019"
+    role: Grad Student
+    repo: https://github.com/daviddavo/19ia
+    tags: [academic, python, data science]
+    summary: >
+      Jupyter Notebooks of Artificial Intelligence from my BSc in Computer Science
+  - name: DAO-Analyzer
+    timeline: 2021 - 2022
+    role: Developer
+    repo: https://github.com/Grasia/dao-analyzer
+    url: https://dao-analyzer.science
+    tags: [professional, python, data science, blockchain]
+    summary: >
+      Dashboard to display data on Ethereum's Decentralized Autonomous Organizations (DAOs)
+  - name: Telephone Tales & Poems
+    timeline: 2015 - Today
+    role: Organizer & Developer
+    repo: https://github.com/daviddavo/cypxt20
+    url: https://montandoellocal.com/2021/05/02/como-funciona-cuentos-y-poemas-por-telefono/
+    tags: [hobby, web, php, symfony]
+    summary: >
+      Website to manage requests in the "Telefone Tales" event
+  - name: Homelab
+    timeline: 2011 - Today
+    role: Sysadmin
+    tags: [hobby, docker, linux]
+    summary: >
+      Small home network with multiple servers that hosts various daily use services
+      for friends and family, using docker and lots of scripting and duct-tape
+  - name: "TFG: NoC implementation of a RISC-V processor"
+    repo: https://github.com/daviddavo/Cores-SweRV-EL2-NoC
+    url: https://hdl.handle.net/20.500.14352/3279
+    role: Hardware design
+    tags: [academic, hardware, verilog, risc-v]
+    summary: >
+      Implementation of a Network on Chip for the SWerv-EL2 processor written in Verilog
+    
+# Esta web
+# El blog
