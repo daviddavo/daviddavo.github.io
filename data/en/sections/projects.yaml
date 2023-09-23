@@ -1,16 +1,16 @@
 # section information
 section:
-  name: Proyectos
+  name: Projects
   id: projects
   enable: true
   weight: 2
   showOnNavbar: true
 buttons:
-  - name: Todos
+  - name: All
     filter: all
-  - name: Académicos
+  - name: Academic
     filter: academic
-  - name: Profesional
+  - name: Professional
     filter: professional
   - name: Hobby
     filter: hobby
@@ -18,89 +18,88 @@ buttons:
 projects:
   - name: InvProy α
     timeline: "2015 - 2017"
-    role: Estudiante
+    role: High School Student
     repo: https://github.com/daviddavo/InvProy
     url: https://invproy.ddavo.me
     tags: [academic, python, latex]
     summary: >
-      Proyecto de Investigación parte del programa de «Bachillerato de Excelencia»
-      y ganador del II Encuentro Preuniversitario Complutense de Jóvenes Investigadores (2017)
+      Final project part of the "Baccalaureate of Excellence" program, winner of
+      the 2nd pre-university meeting of future researchers (2017).
   - name: SIMKL's TV Tracker
     timeline: 2016 - 2019
-    role: Desarrollador 3rd Party
+    role: 3rd Party Developer
     repo: https://github.com/SIMKL/script.simkl
     url: https://simkl.com/apps/
     tags: [professional, python, C#]
     summary: >
-      Creación de plugins para Kodi y Emby que hacen seguimiento del capítulo o película que estás viendo a Simkl
+      Creation of plugins for Emby and Kodi that scrobble the chapter or movie you're watching to Simkl
   - name: Just Get My Data
     timeline: 2022 - Today
-    role: Estudiante
+    role: Grad Student
     repo: https://github.com/daviddavo/jgmd
     url: https://justgetmydata.com
     tags: [academic, hobby, jekyll]
     summary: >
-      Repositorio de enlaces y documentación sobre como obtener tus datos personales de distintos servicios web
+      Repository of links and documentation on how to obtain your personal data from multiple web services
   - name: IHaskell-Widgets
     timeline: Verano 2021
-    role: Participante GSoC
+    role: Contributor
     repo: https://github.com/IHaskell/IHaskell
     url: https://gsoc21.ddavo.me
     tags: [academic, professional, haskell, jupyter]
     summary: >
-      Arreglar la librería IHaskell-widgets como participante en el Google Summer of Code 2021 con Haskell.org
+      Fixing the IHaskell-widgets library as a participant in the Google Summer of Code 2021 with Haskell.org as mentor
   - name: wdsparqlmagic
     timeline: "2022"
-    role: Desarrollador
+    role: Developer
     repo: https://github.com/daviddavo/wdsparql
     tags: [professional, python, jupyter]
     summary: >
-      Plugin de Jupyter para ejecutar _queries_ de SparQL en un Jupyter Notebook
-  - name: Bellman Ford en Haskell
+      Jupyter plugin to execute SparQL queries inside the notebook
+  - name: Bellman Ford in Haskell
     timeline: "2020"
-    role: Estudiante
+    role: Grad Student
     repo: https://github.com/daviddavo/bellman-ford-haskell
     tags: [academic, haskell, algorithms]
     summary: >
-      Implementación en Haskell del algoritmo Bellman-Ford, comprobando su eficiencia y complejidad
-  - name: Prácticas Inteligencia Artificial
+      Haskell implementation of the Bellman-Ford algorithm, analysing its complexity and efficiency
+  - name: Artificial Intelligence Notebooks
     timeline: "2019"
-    role: Estudiante
+    role: Grad Student
     repo: https://github.com/daviddavo/19ia
     tags: [academic, python, data science]
     summary: >
-      Prácticas de la asignatura Inteligencia Artificial II del Grado en Ingeniería Informática
+      Jupyter Notebooks of Artificial Intelligence from my BSc in Computer Science
   - name: DAO-Analyzer
     timeline: 2021 - 2022
-    role: Desarrollador
+    role: Developer
     repo: https://github.com/Grasia/dao-analyzer
     url: https://dao-analyzer.science
     tags: [professional, python, data science, blockchain]
     summary: >
-      Herramienta de visualización de datos sobre Organizaciones Descentralizadas Autónomas (DAOs)
-      desplegadas en la red Ethereum
-  - name: Cuentos y Poemas por Teléfono
+      Dashboard to display data on Ethereum's Decentralized Autonomous Organizations (DAOs)
+  - name: Telephone Tales & Poems
     timeline: 2015 - Today
-    role: Organizador y Desarrollador
+    role: Organizer & Developer
     repo: https://github.com/daviddavo/cypxt20
     url: https://montandoellocal.com/2021/05/02/como-funciona-cuentos-y-poemas-por-telefono/
     tags: [hobby, web, php, symfony]
     summary: >
-      Página web para la gestión de llamadas en los eventos cuentos y poemas por teléfono de Montando el Local
+      Website to manage requests in the "Telefone Tales" event
   - name: Homelab
     timeline: 2011 - Today
     role: Sysadmin
     tags: [hobby, docker, linux]
     summary: >
-      Pequeña red casera con varios dispositivos que aloja varios servicios de
-      uso diario para mis allegados usando docker y multitud de scripts
-  - name: "TFG: NoC en procesador RISC-V"
+      Small home network with multiple servers that hosts various daily use services
+      for friends and family, using docker and lots of scripting and duct-tape
+  - name: "TFG: NoC implementation of a RISC-V processor"
     repo: https://github.com/daviddavo/Cores-SweRV-EL2-NoC
     url: https://hdl.handle.net/20.500.14352/3279
-    role: Diseñador hardware
+    role: Hardware design
     tags: [academic, hardware, verilog, risc-v]
     summary: >
-      Implementación de una Red en Chip para un procesador RISC-V escrito en Verilog
+      Implementation of a Network on Chip for the SWerv-EL2 processor written in Verilog
     
 # Esta web
 # El blog

@@ -43,7 +43,7 @@ publications:
     url: https://doi.org/10.1145/3500868.3559707
     # url: https://hdl.handle.net/20.500.14352/73018
   categories: ["conference", "demo"]
-- title: Implementación de una red en chip en un procesador RISC-V
+- title: NoC implementation of a RISC-V processor
   publishedIn:
     name: Final Degree Project, Department of Computer Architecture and Automation, Complutense University of Madrid
     date: 2022年7月
