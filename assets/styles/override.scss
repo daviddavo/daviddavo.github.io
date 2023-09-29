@@ -56,3 +56,12 @@
   font-size: 6rem;
   line-height: 1.2;
 }
+
+button.btn-dark {
+  background-color: #3b0764!important; // purple 950
+  border-color: #3b0764!important; // purple 950
+}
+
+.about-section .social-link a {
+  color: hsl(276, 35%, 25%);
+}
