@@ -24,6 +24,20 @@ outputs:
   - JSON
 enableRobotsTXT: true
 
+# Hugo modules (needed since toha v4)
+module:
+  imports:
+  - path: toha
+  mounts:
+  - source: static/files
+    target: static/files
+  - source: ./node_modules/flag-icon-css/flags
+    target: static/flags
+  - source: ./node_modules/@fontsource/mulish/files
+    target: static/files
+  - source: ./node_modules/katex/dist/fonts
+    target: static/fonts
+
 # Site parameters
 params:
   # GitHub repo URL and branch of your site
@@ -37,6 +51,12 @@ params:
   newsletter:
     enable: false
 
+  customMenus:
+    - name: Blog
+      url: https://blog.ddavo.me
+      hideFromNavbar: false
+      showOnFooter: true
+
   features:
     portfolio:
       enable: true
@@ -45,13 +65,15 @@ params:
       matomo:
         instance: matomo.ddavo.me
         siteId: 1
-    # support:
-    #   enabled: true
-    #   kofi:
-    #     user: ddavo
-    #     text: Invite me to a coffee
-    #     textColor: '#f9fafc'
-    #     backgroundColor: '#248aaa'
+    flags:
+      enable: true
+    support:
+      enabled: true
+      kofi:
+        user: ddavo
+        text: Invite me to a coffee
+        textColor: '#f9fafc'
+        backgroundColor: '#248aaa'
 
   footer:
     enable: true
