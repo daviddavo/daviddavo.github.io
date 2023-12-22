@@ -1,7 +1,7 @@
 baseURL: http://ddavo.me/
 languageCode: en-uk
 title: David Davó
-theme: [hugo-redirect, toha]
+theme: [hugo-redirect, github.com/daviddavo/toha/v4]
 
 # Manage languages
 # https://gohugo.io/content-management/multilingual/
@@ -27,7 +27,7 @@ enableRobotsTXT: true
 # Hugo modules (needed since toha v4)
 module:
   imports:
-  - path: toha
+  - path: github.com/daviddavo/toha/v4
   mounts:
   - source: static/files
     target: static/files
@@ -58,6 +58,8 @@ params:
       showOnFooter: true
 
   features:
+    darkMode: 
+      enable: true
     portfolio:
       enable: true
     analytics:
