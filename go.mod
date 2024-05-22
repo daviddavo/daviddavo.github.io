@@ -1,7 +1,7 @@
 module github.com/daviddavo/daviddavo.github.io
 
 // For checking how it works before committing
-replace github.com/daviddavo/toha/v4 => /home/davo/Documents/web/toha
+// replace github.com/daviddavo/toha/v4 => /home/davo/Documents/web/toha
 
 go 1.21.1
 
