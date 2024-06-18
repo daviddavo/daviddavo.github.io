@@ -16,6 +16,27 @@ buttons:
 - name: "Trabajos Finales"
   filter: "tf"
 publications:
+- title: Exploración de sistemas recomendadores para la recomendación de propuestas en organizaciones autónomas descentralizadas
+  publishedIn:
+    name: Trabajo de Fin de Máster, Master Universitario en Inteligencia Artificial, Universidad Politécnica de Madrid
+    date: Junio 2024
+    url: https://oa.upm.es/82151/
+  paper:
+    summary: >
+      Las DAOs han surgido como un nuevo enfoque hacia la governanza colectiva, facilitado por la tecnología blockchain.
+      Sin embargo, la efectividad y legitimidad de la toma de decisiones en DAOs puede verse afectada por la baja participación.
+      Dada el tiempo limitado de votación de cada propuesta, las técnicas convencionales en sistemas recomendadores son inadecuadas.
+      Por esa razón, este Trabajo de Fin de Máster introduce el primer sistema de recomendación diseñado específicamente para DAOs.
+    url: https://oa.upm.es/82151/
+  authors:
+  - name: David Davó
+    url: https://orcid.org/0000-0003-1744-8314
+    categories: ["tf"]
+  directors:
+  - name: Damiano Zanardini
+    url: https://scholar.google.com/citations?user=3KI6ghoAAAAJ
+  - name: Javier Arroyo
+    url: https://scholar.google.com/citations?user=XnLmmE8AAAAJ
 - title: "DAO-Analyzer: Exploring Activity and Participation in Blockchain Organizations"
   publishedIn:
     name: "CSCW'22 Companion: Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing"
