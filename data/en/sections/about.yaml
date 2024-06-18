@@ -24,15 +24,16 @@ resume: "https://daviddavo.github.io/22CV/David_Davo_CV_English.pdf"
 
 # a summary about you
 summary: >
-  I am a Computer Science student that just finished its Bachelor's degree at [Complutense University of Madrid](https://www.ucm.es/english).
-  Currently I am pursuing a [Master's Dregree on Artificial Intelligence](http://www.dia.fi.upm.es/masteria/?q=en) at the [Politechnic University of Madrid](https://www.upm.es/internacional).
+  Research assistant that just finished its Master's in Artificial Intelligence at the Politechnic University of Madrid.
+  **Currently I am searching for opportunities to finance a PhD**.
 
 
-  While I studied things more related to theoretical computer science, I also like hardware and computer architecture. I am
-  a software libre, hacking and computer history enthusiast.
+  While I studied things more related to theoretical computer science and artificial intelligence, I also like hardware and computer architecture. I am
+  a software libre, hacking and computer history enthusiast. 
+  My previous publications are related to Human-Computer Interaction, but I am eager to learn new things.
   
 
-  In my free time, I have a small homelab and study Japanese, and I also have a [blog](https://blog.ddavo.me).
+  In my free time, I have a small homelab and [study Japanese](/jp), and I also have a [blog](https://blog.ddavo.me).
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -55,3 +56,6 @@ socialLinks:
 - name: Stack Overflow
   icon: "fab fa-stack-overflow"
   url: "https://stackoverflow.com/users/4505998"
+- name: Kaggle
+  icon: "fab fa-kaggle"
+  url: "https://www.kaggle.com/daviddavo"

@@ -24,15 +24,15 @@ resume: "https://daviddavo.github.io/22CV/David_Davo_CV_Spanish.pdf"
 
 # a summary about you
 summary: >
-  Estudiante de Ingeniería Informática que acaba de terminar el grado en la [Universidad Complutense de Madrid](https://www.ucm.es).
-  Actualmente estoy haciendo un Master en Inteligencia Artificial en la Universidad Politécnica de Madrid.
+  Investigador predoctoral que acaba de terminar el Máster Universitario en Inteligencia Artificial de la Universidad Politécnica de Madrid.
+  Actualmente estoy buscando maneras de financiar un doctorado mientras trabajo como asistente de investigación.
 
 
-  Aunque he estudiado una rama más cercana a las ciencias de la computación, también me gusta el hardware y la arquitectura de computadores.
+  Aunque he estudiado una rama más cercana a las ciencias de la computación y la inteligencia artificial, también me gusta el hardware y la arquitectura de computadores.
   Además soy un entusiasta del software libre, el hacking y la historia de la informática.
   
 
-  En mi tiempo libre, administro mis servicios auto alojados y estudio japonés, también tengo un [blog](https://blog.ddavo.me/es/)
+  En mi tiempo libre, administro mis servicios auto alojados y [estudio japonés](/jp), también tengo un [blog](https://blog.ddavo.me/es/).
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -55,3 +55,6 @@ socialLinks:
 - name: Stack Overflow
   icon: "fab fa-stack-overflow"
   url: "https://stackoverflow.com/users/4505998"
+- name: Kaggle
+  icon: "fab fa-kaggle"
+  url: "https://www.kaggle.com/daviddavo"

@@ -56,3 +56,6 @@ socialLinks:
 - name: Stack Overflow
   icon: "fab fa-stack-overflow"
   url: "https://stackoverflow.com/users/4505998"
+- name: Kaggle
+  icon: "fab fa-kaggle"
+  url: "https://www.kaggle.com/daviddavo"
