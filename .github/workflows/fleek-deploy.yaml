@@ -26,7 +26,7 @@ jobs:
           echo "relativeURLs: true" >> config.yaml
 
       - name: Build Hugo
-        run: hugo --minify
+        run: npm install && hugo --minify
       
       - name: Build & deploy sites
         run: fleek sites deploy
