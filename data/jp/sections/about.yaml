@@ -8,11 +8,11 @@ section:
   template: sections/about-img.html
 
 # your designation
-designation: 研究助手
+designation: 研究エンジニア
 # your company information
 company:
-  name: GRASIA
-  url: https://grasia.fdi.ucm.es/newmain/language/en/
+  name: Barcelona Supercomputing Center
+  url: https://bsc.es
 
 # your resume. this file path should be relative to you "static" directory
 resume: "https://daviddavo.github.io/22CV/David_Davo_CV_English.pdf"
@@ -25,14 +25,17 @@ resume: "https://daviddavo.github.io/22CV/David_Davo_CV_English.pdf"
 # a summary about you
 # TODO: Translate to japanese
 summary: >
-  私は[Complutense University of Madrid](https://www.ucm.es/english)でコンピュータサイエンスの学士号を取得しました。
-  今、[Politechnic Univeristy of Madrid](https://www.upm.es/internacional)で[人工知能の修士課程](http://www.dia.fi.upm.es/masteria/?q=en)で勉強しています。
+  バルセロナ・スーパーコンピューニング・センター (BSC) で研究エンジニアとして働いています。そして、カタルーニャ工科大学 (UPC) で**計算機アーキテクチャの博士課程**の学生でもあります。
+  ここでは、行列の掛け算を速くする方法について研究しています。
 
 
-  計算理論を勉強しましたが、コンピュータアーキテクチャも好きです。それに、ハッキングとフリーソフトウェアとコンピュータの歴史も好きで、よく勉強しています。
+  以前は、コンプルテンセ大学のGRASIA研究グループで働いていました。そこでは、人々がコンピュータを使って、どう協力して作業するかを研究していました。
+
+  2024年にマドリード工科大学で**人工知能の修士号**を取りました。その後、すぐにコンプルテンセ大学で計算機科学の博士課程を始めました。
+  スペイン科学省から、とても有名なFPU奨学金をもらえましたが、断りました。なぜなら、その時趣味だったハードウェアや最適化の分野で、もっと深く研究したかったからです。今では、それが私の情熱になっています。
 
 
-  暇なときは、家庭内ネットワークを構築したり日本語を勉強したり[個人ブログ](https://blog.ddavo.me/en/)を書いたりします。
+  自由な時間には、家で小さいホームラボを作って遊んだり、コンピュータの歴史について本を読んだりしています。それから、日本語を勉強したり、[ブログ](https://blog.ddavo.me/en)を書いたりもしています。
 
 
 # your social links

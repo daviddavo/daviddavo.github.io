@@ -16,6 +16,26 @@ buttons:
 - name: "卒業論文"
   filter: "tf"
 publications:
+- title: Exploring recommender systems for proposal recommendation in Decentralized Autonomous Organizations
+  publishedIn:
+    name: Master's Thesis, Master in Artificial Intelligence, Politechnic University of Madrid
+    date: 2024年6月
+    url: https://oa.upm.es/82151/
+  paper:
+    summary: >
+      DAOs have emerged as a novel approach to collective governance, facilitated by blockchain technology.
+      However, the effectiveness and legitimacy of decision-making within DAOs can be compromised by low voter turnout.
+      Given the limited lifespan of each proposal, conventional recommender system techniques are unsuitable. In response to these issues, this Master’s Thesis introduces a recommender system specifically designed for DAOs.
+    url: https://oa.upm.es/82151/
+  authors:
+  - name: David Davó
+    url: https://orcid.org/0000-0003-1744-8314
+    categories: ["tf"]
+  directors:
+  - name: Damiano Zanardini
+    url: https://scholar.google.com/citations?user=3KI6ghoAAAAJ
+  - name: Javier Arroyo
+    url: https://scholar.google.com/citations?user=XnLmmE8AAAAJ
 - title: "DAO-Analyzer: Exploring Activity and Participation in Blockchain Organizations"
   publishedIn:
     name: "CSCW'22 Companion: Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing"
