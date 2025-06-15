@@ -42,7 +42,7 @@ projects:
     summary: >
       Repository of links and documentation on how to obtain your personal data from multiple web services
   - name: IHaskell-Widgets
-    timeline: Verano 2021
+    timeline: Summer 2021
     role: Contributor
     repo: https://github.com/IHaskell/IHaskell
     url: https://gsoc21.ddavo.me

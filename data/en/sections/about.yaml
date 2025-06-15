@@ -8,11 +8,11 @@ section:
   template: sections/about-img.html
 
 # your designation
-designation: Research Assistant
+designation: Research Engineer
 # your company information
 company:
-  name: GRASIA
-  url: https://grasia.fdi.ucm.es/newmain/language/en/
+  name: Barcelona Supercomputing Center
+  url: https://bsc.es
 
 # your resume. this file path should be relative to you "static" directory
 resume: "https://daviddavo.github.io/22CV/David_Davo_CV_English.pdf"
@@ -24,16 +24,17 @@ resume: "https://daviddavo.github.io/22CV/David_Davo_CV_English.pdf"
 
 # a summary about you
 summary: >
-  Research assistant that just finished its Master's in Artificial Intelligence at the Politechnic University of Madrid.
-  **Currently I am searching for opportunities to finance a PhD**.
+  Research Engineer @ [BSC](https://bsc.es) and **part-time PhD student in Computer Architecture** @ [UPC](https://www.upc.edu/en), reasearching matrix multiplication acceleration.
+  Previously, I worked at the GRASIA research group in the Complutense University of Madrid, researching how people use computers to collaborate.
 
 
-  While I studied things more related to theoretical computer science and artificial intelligence, I also like hardware and computer architecture. I am
-  a software libre, hacking and computer history enthusiast. 
-  My previous publications are related to Human-Computer Interaction, but I am eager to learn new things.
-  
+  Finished a Master's degree in Artificial Intelligence at the Politechnic University of Madrid in 2024 and inmediately
+  started doing a PhD in Computer Science at the Complutense University of Madrid. Although I received the
+  prestigious FPU scholarship from the Spanish Ministry of Science, I rejected it to go play with hardware and optimization,
+  one of my then hobbies, and now passions.
 
-  In my free time, I have a small homelab and [study Japanese](/jp), and I also have a [blog](https://blog.ddavo.me).
+
+  In my free time, I have a small homelab, read about computer history, [study Japanese](/jp), and I also have a [blog](https://blog.ddavo.me).
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
