@@ -11,8 +11,8 @@ section:
 designation: Asistente de Investigación
 # your company information
 company:
-  name: GRASIA
-  url: https://grasia.fdi.ucm.es/newmain/language/en/
+  name: Barcelona Supercomputing Center
+  url: https://bsc.es/es
 
 # your resume. this file path should be relative to you "static" directory
 resume: "https://daviddavo.github.io/22CV/David_Davo_CV_Spanish.pdf"
@@ -24,12 +24,15 @@ resume: "https://daviddavo.github.io/22CV/David_Davo_CV_Spanish.pdf"
 
 # a summary about you
 summary: >
-  Investigador predoctoral que acaba de terminar el Máster Universitario en Inteligencia Artificial de la Universidad Politécnica de Madrid.
-  Actualmente estoy buscando maneras de financiar un doctorado mientras trabajo como asistente de investigación.
+  Ingeniero-Investigador en el [Centro Nacional de Supercomputación](https://bsc.es) y
+  estudiante de **Doctorado en Arquitectura de Computadores** en la Universitat Politècnica de Catalunya,
+  investigando sobre la aceleración de algoritmos de multiplicación de matrices.
+  Anteriormente trabajé en el grupo GRASIA de la UCM, investigando en _Human-Computer Interaction_.
 
 
-  Aunque he estudiado una rama más cercana a las ciencias de la computación y la inteligencia artificial, también me gusta el hardware y la arquitectura de computadores.
-  Además soy un entusiasta del software libre, el hacking y la historia de la informática.
+  Terminé mi máster en Inteligencia Artificial en la UPM en 2024 y empecé un doctorado en Ingeniería Informática en la UCM.
+  Aunque recibí la beca FPU, la rechacé para poder trabajar en hardware y optimización, lo que en su momento era un hobby y pasó
+  a ser mi trabajo.
   
 
   En mi tiempo libre, administro mis servicios auto alojados y [estudio japonés](/jp), también tengo un [blog](https://blog.ddavo.me/es/).
