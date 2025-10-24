@@ -31,12 +31,12 @@ publications:
   authors:
   - name: David Davó
     url: https://orcid.org/0000-0003-1744-8314
-    categories: ["tf"]
   directors:
   - name: Damiano Zanardini
     url: https://scholar.google.com/citations?user=3KI6ghoAAAAJ
   - name: Javier Arroyo
     url: https://scholar.google.com/citations?user=XnLmmE8AAAAJ
+  categories: ["tf"]
 - title: "DAO-Analyzer: Exploring Activity and Participation in Blockchain Organizations"
   publishedIn:
     name: "CSCW'22 Companion: Companion Publication of the 2022 Conference on Computer Supported Cooperative Work and Social Computing"
