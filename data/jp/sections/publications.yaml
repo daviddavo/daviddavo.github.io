@@ -16,20 +16,20 @@ buttons:
 - name: "卒業論文"
   filter: "tf"
 publications:
-- title: "The rise and fall of DAOstack: lessons for decentralized autonomous organizations"
+- title: "The rise and fall of DAOstack: lessons for Decentralized Autonomous Organizations"
   publishedIn:
     name: "PeerJ Computer Science"
     date: 2025年
     url: https://peerj.com/computer-science/
   authors:
   - name: David Davó
-    url: https://scholar.google.com/citations?user=LNSSvv4AAAAJ
+    url: https://scholar.google.com/citations?user=KruiSsAAAAAJ
   - name: Javier Arroyo
     url: https://scholar.google.com/citations?user=XnLmmE8AAAAJ
   - name: Samer Hassan
     url: https://scholar.google.com/citations?user=t-R8WmsAAAAJ
-  - name: Stefano Semenzin
-    url: https://scholar.google.com/citations?user=qnUGvUUAAAAJ
+  - name: Silvia Semenzin
+    url: https://scholar.google.com/citations?user=QGDQK2wAAAAJ
   paper:
     summary: >
       This paper analyzes the trajectory of DAOstack, a prominent platform for Decentralized Autonomous Organizations (DAOs), from its inception to its decline. Through a comprehensive examination of DAOstack's development, governance mechanisms, and community engagement, we extract valuable lessons for the design and sustainability of future decentralized governance systems.
@@ -48,7 +48,7 @@ publications:
     url: https://oa.upm.es/82151/
   authors:
   - name: David Davó
-    url: https://orcid.org/0000-0003-1744-8314
+    url: https://scholar.google.com/citations?user=KruiSsAAAAAJ
   directors:
   - name: Damiano Zanardini
     url: https://scholar.google.com/citations?user=3KI6ghoAAAAJ
@@ -64,7 +64,7 @@ publications:
   - name: Javier Arroyo
     url: https://scholar.google.com/citations?user=XnLmmE8AAAAJ
   - name: David Davó
-    url: https://scholar.google.com/citations?user=LNSSvv4AAAAJ
+    url: https://scholar.google.com/citations?user=KruiSsAAAAAJ
   - name: Elena Martínez-Vicente
     url: https://www.linkedin.com/in/elenamartinezvicente
   - name: Youssef Faqir-Rhazoui
@@ -89,7 +89,7 @@ publications:
     url: https://informatica.ucm.es/tfgs-2022-2023
   authors:
   - name: David Davó
-    url: https://scholar.google.com/citations?user=LNSSvv4AAAAJ
+    url: https://scholar.google.com/citations?user=KruiSsAAAAAJ
   directors:
   - name: Óscar Garnica
     url: https://scholar.google.com/citations?user=_0Uu_akAAAAJ
