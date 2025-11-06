@@ -16,6 +16,25 @@ buttons:
 - name: "卒業論文"
   filter: "tf"
 publications:
+- title: "The rise and fall of DAOstack: lessons for decentralized autonomous organizations"
+  publishedIn:
+    name: "PeerJ Computer Science"
+    date: 2025年
+    url: https://peerj.com/computer-science/
+  authors:
+  - name: David Davó
+    url: https://scholar.google.com/citations?user=LNSSvv4AAAAJ
+  - name: Javier Arroyo
+    url: https://scholar.google.com/citations?user=XnLmmE8AAAAJ
+  - name: Samer Hassan
+    url: https://scholar.google.com/citations?user=t-R8WmsAAAAJ
+  - name: Stefano Semenzin
+    url: https://scholar.google.com/citations?user=qnUGvUUAAAAJ
+  paper:
+    summary: >
+      This paper analyzes the trajectory of DAOstack, a prominent platform for Decentralized Autonomous Organizations (DAOs), from its inception to its decline. Through a comprehensive examination of DAOstack's development, governance mechanisms, and community engagement, we extract valuable lessons for the design and sustainability of future decentralized governance systems.
+    url: https://doi.org/10.7717/peerj-cs.3320
+  categories: ["article"]
 - title: Exploring recommender systems for proposal recommendation in Decentralized Autonomous Organizations
   publishedIn:
     name: Master's Thesis, Master in Artificial Intelligence, Politechnic University of Madrid
