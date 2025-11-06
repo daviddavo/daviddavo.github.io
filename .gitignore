@@ -11,6 +11,8 @@ node_modules
 hugo.exe
 hugo.darwin
 hugo.linux
+hugo
+hugo_extended_*.tar.gz
 
 # Temporary lock file while building
 /.hugo_build.lock
