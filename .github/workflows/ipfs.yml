@@ -25,7 +25,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo -b "/"
+        run: npm i && hugo -b "/"
 
       - name: Deploy to Kubo
         uses: ipshipyard/ipfs-deploy-action@v1
