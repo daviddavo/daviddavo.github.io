@@ -16,6 +16,21 @@ buttons:
 - name: "Trabajos Finales"
   filter: "tf"
 publications:
+- title: "Enhancing Voter Engagement in Decentralized Autonomous Organizations Through Recommender Systems"
+  publishedIn:
+    name: "Inteligencia Artificial"
+    date: Julio 2026
+    url: https://journal.iberamia.org/
+  authors:
+  - name: David Davó
+    url: https://scholar.google.com/citations?user=KruiSsAAAAAJ
+  - name: Javier Arroyo
+    url: https://scholar.google.com/citations?user=XnLmmE8AAAAJ
+  paper:
+    summary: >
+      La baja participación es un desafío importante en las Organizaciones Autónomas Descentralizadas (DAOs) debido al gran volumen de propuestas. Proponemos un enfoque de recomendación adaptado a las limitaciones de la gobernanza en DAOs, donde las propuestas son efímeras. Utilizando un conjunto de datos de 12 DAOs activas, demostramos que los sistemas de recomendación personalizados superan significativamente al modelo base al predecir las preferencias de voto.
+    url: https://doi.org/10.4114/intartif.vol29iss78pp103-122
+  categories: ["article"]
 - title: "The rise and fall of DAOstack: lessons for Decentralized Autonomous Organizations"
   publishedIn:
     name: "PeerJ Computer Science"

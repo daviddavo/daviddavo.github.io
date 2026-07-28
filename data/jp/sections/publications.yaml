@@ -16,6 +16,21 @@ buttons:
 - name: "卒業論文"
   filter: "tf"
 publications:
+- title: "Enhancing Voter Engagement in Decentralized Autonomous Organizations Through Recommender Systems"
+  publishedIn:
+    name: "Inteligencia Artificial"
+    date: 2026年7月
+    url: https://journal.iberamia.org/
+  authors:
+  - name: David Davó
+    url: https://scholar.google.com/citations?user=KruiSsAAAAAJ
+  - name: Javier Arroyo
+    url: https://scholar.google.com/citations?user=XnLmmE8AAAAJ
+  paper:
+    summary: >
+      Low voter turnout is a major challenge in Decentralized Autonomous Organizations (DAOs) due to the high volume of proposals. We propose a recommendation approach tailored to the unique constraints of DAO governance, where proposals are short-lived and must be recommended while active. Using a dataset of 12 active DAOs, we show that personalized recommender systems significantly outperform baseline methods in predicting voting preferences.
+    url: https://doi.org/10.4114/intartif.vol29iss78pp103-122
+  categories: ["article"]
 - title: "The rise and fall of DAOstack: lessons for Decentralized Autonomous Organizations"
   publishedIn:
     name: "PeerJ Computer Science"
